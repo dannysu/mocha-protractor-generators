@@ -1,0 +1,9 @@
+{
+  "env" : {
+    "node": true,
+    "mocha": true,
+    "es6": true,
+    "protractor": true
+  },
+  "extends": "eslint:recommended"
+}
